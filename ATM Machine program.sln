@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ATM Machine program", "ATM Machine program.vcxproj", "{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Debug|x64.ActiveCfg = Debug|x64
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Debug|x64.Build.0 = Debug|x64
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Debug|x86.Build.0 = Debug|Win32
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Release|x64.ActiveCfg = Release|x64
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Release|x64.Build.0 = Release|x64
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Release|x86.ActiveCfg = Release|Win32
+		{ACDB20A8-12A7-4EA8-BDAB-6C24FD8E0BB8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A9A92F-E02F-4189-88AB-5300F79B50D6}
+	EndGlobalSection
+EndGlobal
